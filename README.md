@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Programming, Robotics.
 - 🌱 I’m currently learning ...B.Tech in Computer Science and Technology.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...samratghosh490@gmail.com
 
 <!---
 samratghosh291/samratghosh291 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
