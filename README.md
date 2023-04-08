@@ -40,7 +40,7 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samratghosh291&" alt="samratghosh291" /></p>
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
