@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/piku_samrat490" target="blank"><img src="https://img.shields.io/twitter/follow/piku_samrat490?logo=twitter&style=for-the-badge" alt="piku_samrat490" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS, JavaScript**
+- 🌱 I’m currently learning **Solidity💎**
 
 - 💬 Ask me about **Data Structure and Algorithm**
 
