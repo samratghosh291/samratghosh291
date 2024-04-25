@@ -41,3 +41,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samratghosh291&" alt="samratghosh291" /></p>
 
 
+ <details> 
+<summary>Leetcode Profile 🚀</summary>
+<br/>
+
+   ![Leetcode Stats](https://leetcode.card.workers.dev/?username=piku_samrat&theme=nord&extension=activity)
+
+</details>
+
