@@ -6,8 +6,8 @@
 
 - 🏆 Smart India Hackathon 2023 Software Edition(Senior) Finalist (Top 2) <br>
 - 🏆 Innovate 2.0, 2024 Winner <br>
-- 🌐 Experienced in Full Stack Web Development with React Js, Python, JavaScript etc. <br>
-- 👨‍💻 500+ Problems Solved on Various( Leetcode, GFG) Platform.<br>
+- 🌐 Experienced in Full Stack Web Development with React Js, Python, JavaScript, Java etc. <br>
+- 👨‍💻 700+ Problems Solved on Various( Leetcode, GFG) Platform.<br>
 
 
 - 🌍 I'm based in Kolkata
