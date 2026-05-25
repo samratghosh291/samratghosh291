@@ -1,6 +1,7 @@
-# 💫 About Me:
-  
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samrat, Welcome 🙏
+
+## About Me:
+
+# Namaste ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome 🙏
 
 ## Full Stack Developer having specialization on Backend Technology
 
@@ -12,7 +13,7 @@
 
 - 🌍 I'm based in Kolkata
 - ✉️ You can contact me at [samratghosh490@gmail.com](mailto:samratghosh490@gmail.com)
-- 🧠 I'm learning DevOps Operations.
+- 🧠 I'm learning Core Java with Spring Boot Frameworks.
 - ⚡ I'm a ghost 👻
 
 ## 🌐 Socials:
@@ -28,6 +29,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samratghosh291&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+ <a href="https://leetcode.com/piku_samrat/">
+  <img src="https://leetcard.jacoblin.cool/piku_samrat?theme=dark&ext=heatmap" alt="Piku's LeetCode Stats" />
+</a>
 
 [![](https://visitcount.itsvg.in/api?id=samratghosh291&icon=0&color=0)](https://visitcount.itsvg.in)
 
